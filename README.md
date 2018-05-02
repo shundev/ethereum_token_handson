@@ -22,8 +22,10 @@ git clone https://github.com/shunsukehondo/ethereum_token_handson.git
 
 ```bash
 cd path/to/ethereum_token_handson
-vagrant init ./ethereum_token_handson.box
+vagrant init
 ```
+
+※initに時間がかかります。有線LANなど高速な通信手段を使って下さい。
 
 ## 起動
 
