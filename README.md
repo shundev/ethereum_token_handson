@@ -1,0 +1,2 @@
+# ethereum_token_handson
+Ethereumトークン作成ハンズオンのvagrant boxです
